@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rakeshroyshuvo@gmail.com**
 
-- 📄 Know about my experiences [https://rakeshroy1995.github.io/cv/](https://rakeshroy1995.github.io/cv/)
+- 📄 Know about my experiences [https://rakeshroy1995.github.io/my-resume/](https://rakeshroy1995.github.io/my-resume/)
 
 - ⚡ Fun fact **Chill with friends**
 
