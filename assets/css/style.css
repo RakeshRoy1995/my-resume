@@ -2954,8 +2954,8 @@ input:-internal-autofill-selected {
   align-content: center;
 }
 .skills-box {
-  width: 10rem;
-  min-height: 15rem;
+  width: 5rem;
+  min-height: 3rem;
   margin: 1rem 2.5rem;
   text-align: center;
 }
